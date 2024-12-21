@@ -12,7 +12,7 @@ import seaborn as sns
 # Load dataset Iris
 def load_data():
     # Menggunakan dataset iris dari file CSV yang disediakan
-    iris = pd.read_csv("D:/Evi/PSD/Iris.csv")
+    iris = pd.read_csv("Iris.csv")
     return iris
 
 # Load dataset
